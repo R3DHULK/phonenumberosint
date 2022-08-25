@@ -1,0 +1,1 @@
+number = input ("Enter Victim's Phone Number : ")
